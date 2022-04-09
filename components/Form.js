@@ -88,12 +88,14 @@ const Form = ({contact}) => {
         </Stack>
 
         <Button
-          colorScheme='teal'
+          _hover={{opacity: '.8'}}
+          bg='#696969'
+          color='white'
           maxW='400px'
           mt={4}
           type='submit'
         >
-          Quiero las novedades!
+          QUIERO LAS NOVEDADES!
           {isSubmitting ? <Spinner  ml={5} /> : null}
         </Button>
       </FormControl>
