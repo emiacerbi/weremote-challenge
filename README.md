@@ -1,6 +1,6 @@
 # We Remote Challenge
 
-My solution to the [Weremote challenge](https://weremote.net/).
+My solution to the [Weremote](https://weremote.net/) challenge.
 
 ## Overview
 
